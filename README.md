@@ -127,22 +127,6 @@ This section contains the group’s evaluation of:
 
 ---
 
-## References
-The seminar research was supported using academic journals and conference papers related to industrial communication systems and Ethernet-APL technologies.
-
-### Major References
-1. Lugli et al. — *A Survey and Practical Application of Ethernet-APL, PROFINET Network and HMI* (2025)
-
-2. Lugli et al. — *Ethernet APL Survey and Application* (2024)
-
-3. Tang et al. — *An Ethernet-APL-Based Cloud–Edge Collaborative Architecture for Industrial Automation Systems* (2025)
-
-4. Niemann & Merklin — *OT Security Requirements for Ethernet-APL Field Devices* (2022)
-
-5. Lugli et al. — *Comparative Survey Between Industrial Communication Protocols Applied in Hazardous Areas* (2025)
-
----
-
 ## Applications of Ethernet-APL
 - Oil and gas industries
 - Chemical processing plants
@@ -157,6 +141,23 @@ The seminar research was supported using academic journals and conference papers
 Ethernet-APL represents a major advancement in industrial communication technology by combining Ethernet capabilities with process automation requirements. Its ability to deliver high-speed communication, power integration, long-distance transmission, and hazardous-area support positions it as a strong candidate for future industrial automation systems.
 
 Despite challenges related to cybersecurity, migration costs, and infrastructure upgrades, Ethernet-APL is expected to play a critical role in Industry 4.0 and modern industrial networking.
+
+---
+
+## References
+The seminar research was supported using academic journals and conference papers related to industrial communication systems and Ethernet-APL technologies.
+
+---
+### Major References
+1. Lugli et al. — *A Survey and Practical Application of Ethernet-APL, PROFINET Network and HMI* (2025)
+
+2. Lugli et al. — *Ethernet APL Survey and Application* (2024)
+
+3. Tang et al. — *An Ethernet-APL-Based Cloud–Edge Collaborative Architecture for Industrial Automation Systems* (2025)
+
+4. Niemann & Merklin — *OT Security Requirements for Ethernet-APL Field Devices* (2022)
+
+5. Lugli et al. — *Comparative Survey Between Industrial Communication Protocols Applied in Hazardous Areas* (2025)
 
 ---
 
