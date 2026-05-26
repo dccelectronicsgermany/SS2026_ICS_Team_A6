@@ -159,6 +159,7 @@ The seminar research was supported using academic journals and conference papers
 
 5. Lugli et al. — *Comparative Survey Between Industrial Communication Protocols Applied in Hazardous Areas* (2025)
 
+The references are currently being reviewed and will be revised shortly
 ---
 
 ## License
